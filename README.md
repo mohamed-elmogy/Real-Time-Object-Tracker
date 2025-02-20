@@ -27,8 +27,8 @@ pip install opencv-python
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
+git clone [https://github.com/mohamed-elmogy/Real-Time-Object-Tracker]
+cd Real-Time-Object-Tracker
 ```
 
 2. Run the script:
